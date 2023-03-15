@@ -1,0 +1,14 @@
+E:\MATC\Second Semester\Int OOP\Lantz_MagicPC\Lantz_MagicPC\bin\Debug\Lantz_MagicPC.exe.config
+E:\MATC\Second Semester\Int OOP\Lantz_MagicPC\Lantz_MagicPC\bin\Debug\Lantz_MagicPC.exe
+E:\MATC\Second Semester\Int OOP\Lantz_MagicPC\Lantz_MagicPC\bin\Debug\Lantz_MagicPC.pdb
+E:\MATC\Second Semester\Int OOP\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.csprojAssemblyReference.cache
+E:\MATC\Second Semester\Int OOP\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.csproj.CoreCompileInputs.cache
+E:\MATC\Second Semester\Int OOP\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.exe
+E:\MATC\Second Semester\Int OOP\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.pdb
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_MagicPC\Lantz_MagicPC\bin\Debug\Lantz_MagicPC.exe.config
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_MagicPC\Lantz_MagicPC\bin\Debug\Lantz_MagicPC.exe
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_MagicPC\Lantz_MagicPC\bin\Debug\Lantz_MagicPC.pdb
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.csprojAssemblyReference.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.csproj.CoreCompileInputs.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.exe
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_MagicPC\Lantz_MagicPC\obj\Debug\Lantz_MagicPC.pdb
